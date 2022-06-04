@@ -10,7 +10,7 @@ dependencies:
     - jupyter-core==4.7.1
     - matplotlib==3.3.4
     - numpy==1.19.2
-    - Pillow==8.1.0
+    - Pillow==7.2.0
     - scipy==1.6.3
     - gym==0.18.0
 
